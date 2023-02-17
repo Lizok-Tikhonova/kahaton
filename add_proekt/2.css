@@ -1,0 +1,16 @@
+.asidebar a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+.asidebar a:active{
+    color: rgb(221, 194, 44);
+    margin: 10px;
+}
+
+.asidebar a:link{
+    color: rgb(0, 0, 0);
+    margin: 10px;
+}
